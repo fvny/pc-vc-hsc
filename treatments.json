@@ -1,1 +1,8 @@
-
+{
+  "1": { "title": "Výjezd", "class": "Přestupek", "id": "", "months": 0, "fine": 3000, "color": "green" },
+  "2": { "title": "Očkování", "class": "Přestupek", "id": "", "months": 0, "fine": 1000, "color": "orange" },
+  "3": { "title": "Operace", "class": "Přestupek", "id": "", "months": 0, "fine": 10000, "color": "red" },
+  "4": { "title": "Lehké ošetření", "class": "Přestupek", "id": "", "months": 0, "fine": 5000, "color": "green" },
+  "5": { "title": "Velké ošetření", "class": "Přestupek", "id": "", "months": 0, "fine": 8000, "color": "orange" },
+  "6": { "title": "Předání prášků", "class": "Přestupek", "id": "", "months": 0, "fine": 500, "color": "red" }
+}
