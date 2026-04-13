@@ -1,1 +1,6 @@
-
+{
+  "Řidický průkaz": "drive",
+  "Lovecký průkaz": "hunter",
+  "Zbrojní průkaz": "weapon",
+  "Pilotní průkaz": "pilot"
+}
