@@ -1,1 +1,7 @@
-
+{
+  "1": { "title": "HSC § 11350(a) - Držení kontrolované/zakázané látky", "class": "Přestupek", "id": "", "months": 12, "fine": 5000, "color": "green" },
+  "2": { "title": "HSC § 11352 - Prodej nebo Transport kontrolované látky", "class": "Trestný čin", "id": "", "months": 108, "fine": 25000, "color": "red" },
+  "3": { "title": "HSC § 11357 - Držení marihuany", "class": "Přestupek", "id": "", "months": 6, "fine": 5000, "color": "green" },
+  "4": { "title": "HSC § 11379 - Držení nebo prodej metamphetaminu", "class": "Trestný čin", "id": "", "months": 48, "fine": 20000, "color": "red" },
+  "5": { "title": "HSC § 11379.6 - Výroba kontrolovaných látek", "class": "Trestný čin", "id": "", "months": 84, "fine": 100000, "color": "red" }
+}
